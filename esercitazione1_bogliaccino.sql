@@ -14,7 +14,7 @@ CREATE TABLE libri (
 alter table libri
 add column editore_id int; 
 
-# CRUD
+# CRUD su libri
 
 ## CREATE
 INSERT INTO libri (titolo, pagine, prezzo, editore_id) VALUES ('Tu robot', 123, 10.50, 3);
