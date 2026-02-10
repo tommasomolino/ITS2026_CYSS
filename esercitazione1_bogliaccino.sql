@@ -1,3 +1,8 @@
+# entro come root
+
+ALTER USER CYSS2026 IDENTIFIED BY 'cyss2026';
+
+
 use cyss2026;
 
 SHOW TABLES;
