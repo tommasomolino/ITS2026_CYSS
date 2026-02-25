@@ -1,0 +1,30 @@
+{
+    "Piemonte": [
+        "Torino",
+        "Novara",
+        "Cuneo",
+        "Asti",
+        "Alessandria"
+    ],
+    "Lombardia": [
+        "Milano",
+        "Bergamo",
+        "Brescia",
+        "Como",
+        "Varese"
+    ],
+    "Veneto": [
+        "Venezia",
+        "Verona",
+        "Padova",
+        "Vicenza",
+        "Treviso"
+    ],
+    "Toscana": [
+        "Firenze",
+        "Pisa",
+        "Siena",
+        "Arezzo",
+        "Lucca"
+    ]
+}
