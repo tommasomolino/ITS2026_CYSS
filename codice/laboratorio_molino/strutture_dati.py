@@ -11,3 +11,13 @@ tuple_voti = (7, 8, 6, 9, 10, 6, 5)
 print(tuple_voti)     # Output: (7, 8, 6, 9, 10, 6, 5)
 print(type(tuple_voti))  # Output: <class 'tuple'>
 
+dizionario_voti = {
+    "Matematica": 7,
+    "Italiano": 8,
+    "Storia": 6,
+    "Scienze": 9
+}
+
+for materia, voto in dizionario_voti.items():
+    print(f"{materia}: {voto}") # Output: Matematica: 7, Italiano: 8, Storia: 6, Scienze: 9
+    
