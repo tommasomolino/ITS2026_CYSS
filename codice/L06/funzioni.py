@@ -1,0 +1,1 @@
+"""Funzioni in Python"""
